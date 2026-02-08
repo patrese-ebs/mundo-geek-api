@@ -1,5 +1,11 @@
 # Documento de Solução - API Mundo Geek
 
+## Desenvolvedores
+
+- **PATRESE EMIRON BARBOSA DE SOUZA**
+- **RODRIGO BEZERRA**
+- **LUCY MARY**
+
 Esta API foi desenvolvida como parte da atividade prática (Hands-on) para o Gerenciamento de Loja.
 
 ## 1. Arquitetura da Solução
