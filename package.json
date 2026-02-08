@@ -1,0 +1,33 @@
+{
+  "name": "aula-13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --watch src/**/*.ts --exec tsx src/server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^25.2.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.6",
+    "@types/pg": "^8.16.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11",
+    "pg": "^8.18.0",
+    "reflect-metadata": "^0.2.2",
+    "save-dev": "^0.0.1-security",
+    "tsx": "^4.21.0",
+    "typeorm": "^0.3.28",
+    "winston": "^3.19.0",
+    "zod": "^4.3.6"
+  }
+}

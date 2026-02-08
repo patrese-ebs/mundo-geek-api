@@ -1,0 +1,8 @@
+MUDAR NO PACKAGE.JSON
+
+"type": "module",
+
+adicionar NO tconfig:
+
+"emitDecoratorMetadata": true,
+"experimentalDecorators": true,
